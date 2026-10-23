@@ -1,0 +1,90 @@
+PARTIE 1
+
+recette total:1500FCFA
+billets à 1500 FCFA :1
+billets à 2500 FCFA :0
+age :12 ans , prix : 1500 FCFA
+recette total:3000FCFA
+billets à 1500 FCFA :2
+billets à 2500 FCFA :0
+age :13 ans , prix : 1500 FCFA
+recette total:4500FCFA
+billets à 1500 FCFA :3
+billets à 2500 FCFA :0
+age :14 ans , prix : 1500 FCFA
+recette total:6000FCFA
+billets à 1500 FCFA :4
+billets à 2500 FCFA :0
+age :15 ans , prix : 1500 FCFA
+recette total:7500FCFA
+billets à 1500 FCFA :5
+billets à 2500 FCFA :0
+age :16 ans , prix : 2500 FCFA
+recette total:10000FCFA
+billets à 1500 FCFA :5
+billets à 2500 FCFA :1
+age :17 ans , prix : 2500 FCFA
+recette total:12500FCFA
+billets à 1500 FCFA :5
+billets à 2500 FCFA :2
+age :18 ans , prix : 2500 FCFA
+recette total:15000FCFA
+billets à 1500 FCFA :5
+billets à 2500 FCFA :3
+age :19 ans , prix : 2500 FCFA
+recette total:17500FCFA
+billets à 1500 FCFA :5
+billets à 2500 FCFA :4
+age :20 ans , prix : 2500 FCFA
+recette total:20000FCFA
+billets à 1500 FCFA :5
+billets à 2500 FCFA :5
+
+
+
+
+
+
+
+PARTIE 2
+
+age :11 ans , prix : 1500 FCFA
+recette total:1500FCFA
+billets à 1500 FCFA :1
+billets à 2500 FCFA :0
+age :12 ans , prix : 1500 FCFA
+recette total:3000FCFA
+billets à 1500 FCFA :2
+billets à 2500 FCFA :0
+age :13 ans , prix : 1500 FCFA
+recette total:4500FCFA
+billets à 1500 FCFA :3
+billets à 2500 FCFA :0
+age :14 ans , prix : 1500 FCFA
+recette total:6000FCFA
+billets à 1500 FCFA :4
+billets à 2500 FCFA :0
+age :15 ans , prix : 1500 FCFA
+recette total:7500FCFA
+billets à 1500 FCFA :5
+billets à 2500 FCFA :0
+age :16 ans , prix : 2500 FCFA
+recette total:10000FCFA
+billets à 1500 FCFA :6
+billets à 2500 FCFA :0
+age :17 ans , prix : 2500 FCFA
+recette total:12500FCFA
+billets à 1500 FCFA :7
+billets à 2500 FCFA :0
+age :18 ans , prix : 2000 FCFA
+recette total:14500FCFA
+billets à 1500 FCFA :7
+billets à 2500 FCFA :1
+age :19 ans , prix : 2000 FCFA
+recette total:16500FCFA
+billets à 1500 FCFA :7
+billets à 2500 FCFA :2
+age :20 ans , prix : 2000 FCFA
+recette total:18500FCFA
+billets à 1500 FCFA :7
+billets à 2500 FCFA :3
